@@ -13,7 +13,7 @@
         <nav class="fixed-nav-bar">
             <label class="logo">UH Post Office</label>
             <ul>
-                <li><a href="index.html">Home</a></li>
+                <li><a href="index.php">Home</a></li>
                 <li><a href="contact.html">FAQs</a></li>
             </ul>
         </nav>

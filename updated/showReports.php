@@ -72,8 +72,8 @@ if (isset($_POST['show-reports'])) {
  <nav class="fixed-nav-bar">
      <label class="logo">UH Post Office</label>
      <ul>
-         <li><a href="index.html">Home</a></li>
-         <li><a href="index.html">Logout</a></li>
+         <li><a href="managerSignedIn.html">Home</a></li>
+         <li><a href="index.php">Logout</a></li>
      </ul>
  </nav>
       </header>
@@ -95,7 +95,7 @@ if (isset($_POST['show-reports'])) {
                         echo "Total number of packages at this branch during this time: " . $packageCountBranchRange['total'] . "<br>";
                         echo "Average weight of the packages that fit the given: " . $packageAverageWeightBranchRange['average'] . " pounds" . "<br>";
                         echo "Average packages per day in this time period: " .$avgPackagePerDay . "<br>";
-                        
+
                         while($row = $resultPackage->fetch_assoc()){
                             echo "id: " . $row["packageID"]. " - Tracking Number: " . $row["trackingNumberPackage"]. "<br>";
                         }
@@ -118,7 +118,7 @@ if (isset($_POST['show-reports'])) {
                   <?php
 
                      if ($resultEmployee->num_rows > 0){
-                    
+
                         echo "Total number of employees at this branch: " . $employeeCountBranch['total'] . "<br>";
 
                         while($row = $resultEmployee->fetch_assoc()){

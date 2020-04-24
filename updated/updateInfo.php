@@ -16,7 +16,7 @@
                 <ul>
                     <!-- going to need abs reference below-->
                     <li><a href="employeeChoice.html">Add/Update</a></li>
-                    <li><a href="index.html">Logout</a></li>
+                    <li><a href="index.php">Logout</a></li>
                 </ul>
             </div>
         </nav>

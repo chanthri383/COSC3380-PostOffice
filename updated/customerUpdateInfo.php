@@ -15,7 +15,7 @@
                 <ul>
                     <li><a href="employeeChoice.html">Home</a></li>
                     <li><a href="chooseCustomerAction.html">Account</a></li>
-                    <li><a href="index.html">Logout</a></li>
+                    <li><a href="index.php">Logout</a></li>
                 </ul>
             </div>
         </nav>

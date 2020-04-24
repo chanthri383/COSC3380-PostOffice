@@ -14,7 +14,7 @@
      <ul>
          <li><a href="customerSignedIn.html">Home</a></li>
          <li><a href="customerChooseAction.html">Account</a></li>
-         <li><a href="index.html">Logout</a></li>
+         <li><a href="index.php">Logout</a></li>
      </ul>
  </nav>
       </header>

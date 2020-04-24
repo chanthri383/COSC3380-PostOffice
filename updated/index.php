@@ -6,7 +6,7 @@
     <link href="css/about.css" rel="stylesheet" type="text/css"/>
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://kit.fontawesome.com/a076d05399/js"></script>
-    <title> Welcome Customer - UH Post Office </title>
+    <title> About Us - UH Post Office </title>
 </head>
 
     <body>
@@ -14,11 +14,10 @@
        <nav class="fixed-nav-bar">
            <label class="logo">UH Post Office</label>
            <ul>
-               <li><a href="customerSignedIn.html">Home</a></li>
+               <li><a href="index.html">Home</a></li>
                <li><a href="contact.html">FAQs</a></li>
-               <li><a href="chooseCustomerAction.html">Account</a></li>
-               <li><a href="notification.html">Notification</a></li>
-               <li><a href="index.php">Logout</a></li>
+               <li><a href="signup.php">Register/Sign-In</a></li>
+               <li><a href="employeeRegistration.php">Career Application</a></li>
            </ul>
        </nav>
             </header>
@@ -26,11 +25,11 @@
         <div class="box">
             <div class="container">
                 <h1>
-                        You Are Signed In!
+                        About Us
                 </h1>
 
                 <p>
-                  Welcome valued customer. Here at UH Post Office, we value our customers and ensure that their experience is high quality. As a signed in customer, you will have access to your tracking number and be able to keep track of the status of your packages.
+                    At UH Post Office, we believe customer satisfaction is our top priority. Our employees are passionate about getting your packages in a timely manner. From efficient delivery of mail and packages to providing friendly customer support, we strive to be your favorite local post office. We are constantly transforming our businesses to meet the new challenges of today's mail and shipping needs.
                 </p>
             </div>
 
