@@ -66,7 +66,7 @@ if ($resultCustomer->num_rows == 0){
      <ul>
          <li><a href="customerSignedIn.html">Home</a></li>
          <li><a href="chooseCustomerAction.html">Account</a></li>
-         <li><a href="index.php">Logout</a></li>
+         <li><a href="index.html">Logout</a></li>
      </ul>
  </nav>
       </header>
