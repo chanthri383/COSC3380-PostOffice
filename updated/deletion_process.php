@@ -78,8 +78,8 @@ if (isset($_POST["package-delete"])){
  <nav class="fixed-nav-bar">
      <label class="logo">UH Post Office</label>
      <ul>
-         <li><a href="customerSignedIn.html">Home</a></li>
-         <li><a href="customerChooseAction.html">Account</a></li>
+         <li><a href="managerSignedIn.html">Home</a></li>
+         <li><a href="report.html">Report</a></li>
          <li><a href="index.html">Logout</a></li>
      </ul>
  </nav>
